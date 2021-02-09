@@ -11,7 +11,6 @@ import UIKit
 
 class MovieGridViewCell: UICollectionViewCell {
     
-
     @IBOutlet weak var posterView: UIImageView!
     
     

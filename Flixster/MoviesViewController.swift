@@ -20,8 +20,6 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        
         tableView.dataSource = self
         tableView.delegate = self
 

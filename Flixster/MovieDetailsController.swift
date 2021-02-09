@@ -41,10 +41,6 @@ class MovieDetailsController: UIViewController {
 
 
 
-
-
-
-
     }
 
 
