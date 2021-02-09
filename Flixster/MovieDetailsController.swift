@@ -39,8 +39,6 @@ class MovieDetailsController: UIViewController {
 
         backdropView.af_setImage(withURL: backdropUrl!)
 
-
-
     }
 
 
